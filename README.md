@@ -1,5 +1,3 @@
-# Extractive text summarization using NLTK and spaCy
-
 # NLP Extractive Summarization
 
 A coursework project focused on **Natural Language Processing (NLP)** and extractive text summarization using **NLTK** and **spaCy**.
